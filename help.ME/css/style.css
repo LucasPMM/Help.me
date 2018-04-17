@@ -1,0 +1,155 @@
+.titulo {
+    text-align: center;
+}
+
+.conteudo {
+    text-align: center;
+}
+
+.sobre {
+    word-break: break-all;
+}
+
+.botao {
+    width: 50%;
+    margin-bottom: 2%;
+    text-align: center !important;
+}
+
+.btnform {
+    width: 15%;
+    margin-bottom: 1%;
+    text-align: center !important;
+}
+
+.imagens {
+    width: 150px !important;
+    height: 150px !important;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.texto {
+    padding-top: 45px;
+}
+
+.circle {
+    border-radius: 100% !important;
+}
+
+.progress {
+    height: 20px;
+}
+
+.side-search {
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+nav .brand-logo {
+    padding-right: 1%;
+    float: left;
+    position: inherit;
+}
+
+nav .card {
+    background-color: #51B1A5;
+    padding: 2% !important;
+}
+
+
+/* TAGS */
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: white;
+    background-image: url("../imagens/background.jpg");
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+#pedido {
+    padding: 2%;
+}
+
+
+/* ID'S */
+
+#imgpedido {
+    width: 300px !important;
+    height: 300px !important;
+    background-position: center center;
+    background-repeat: no-repeat;
+    display: block;
+    margin: 0 auto;
+}
+
+#card-doacao {
+    padding-top: 2%;
+}
+
+#img-doacao {
+    display: block;
+    margin: 0 auto;
+}
+
+#login {
+    position: relative;
+    top: 100%;
+}
+
+#apresentacao {
+    text-align: justify;
+}
+
+#dropdown {
+    margin-top: 63px;
+}
+
+nav {
+    margin-bottom: 2%;
+}
+
+i {
+    float: none !important;
+    height: 50% !important;
+}
+
+
+/* CORES */
+
+.dark-primary-color {
+    background: #00796B;
+}
+
+.default-primary-color {
+    background: #009688;
+}
+
+.light-primary-color {
+    background: #B2DFDB;
+}
+
+.text-primary-color {
+    color: #FFFFFF;
+}
+
+.accent-color {
+    background: #E040FB;
+}
+
+.primary-text-color {
+    color: #212121;
+}
+
+.secondary-text-color {
+    color: #757575;
+}
+
+.divider-color {
+    border-color: #BDBDBD;
+}

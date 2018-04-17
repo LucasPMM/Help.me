@@ -1,0 +1,51 @@
+[
+    {
+        "login": "lucas",
+        "senha": "123",
+        "nome": "lucas",
+        "email": "lucaspaulom@hotmail.com",
+        "carteira": 0
+    },
+    {
+        "login": "123",
+        "senha": "123",
+        "nome": "testes",
+        "email": "lucaspaulom@hotmail.com",
+        "carteira": 0
+    },
+    {
+        "login": "lu",
+        "senha": "123",
+        "nome": "lu",
+        "email": "lucaspaulom@hotmail.com",
+        "carteira": 0
+    },
+    {
+        "login": "asd",
+        "senha": "123",
+        "nome": "asd",
+        "email": "lucaspaulom@hotmail.com",
+        "carteira": 0
+    },
+    {
+        "login": "lll",
+        "senha": "123",
+        "nome": "lucas",
+        "email": "lucaspaulom@hotmail.com",
+        "carteira": 0
+    },
+    {
+        "login": "last",
+        "senha": "123",
+        "nome": "last",
+        "email": "sandermariz@hotmail.com",
+        "carteira": 0
+    },
+    {
+        "login": "teste",
+        "senha": "123",
+        "nome": "teste",
+        "email": "lucaspaulom@hotmail.com",
+        "carteira": 0
+    }
+]
